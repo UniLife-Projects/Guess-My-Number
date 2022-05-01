@@ -6,8 +6,8 @@
 
 ---
 
-> **Before Guessing Correct** > ![Game in Play](./Images/before.png)
+> **Before Guessing Correct**![Game in Play](./Images/before.png)
 
 ---
 
-> **After Guessing Correct** > ![Game in Play](Images/after.png)
+> **After Guessing Correct**![Game in Play](Images/after.png)
