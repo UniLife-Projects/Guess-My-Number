@@ -1,8 +1,10 @@
-# Guess-My-Number
+# [Guess-My-Number](https://uche-jordy-guess-my-number.netlify.app/)
+
+#### Play [Here](https://uche-jordy-guess-my-number.netlify.app/)
 
 ###### ABOUT
 
-> This is a GUI of a game that makes a random number that the user has to guess (with the help of the game).
+> This is a game application that makes a random number that the user has to guess (with the help of the game).
 
 ---
 
