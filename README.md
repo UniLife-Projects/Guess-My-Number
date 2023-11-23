@@ -1,4 +1,4 @@
-# [Guess-My-Number](https://uche-jordy-guess-my-number.netlify.app/)
+# [Guess-My-Number #️⃣🧐?](https://uche-jordy-guess-my-number.netlify.app/)
 
 #### Play [Here](https://uche-jordy-guess-my-number.netlify.app/)
 
